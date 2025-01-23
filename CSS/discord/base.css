@@ -135,7 +135,7 @@
     background: #711c91;
 }
 
-/* 1.4. Scroll bar 
+/* 1.4. Scroll bar */
 .da-scrollerWrap .da-scroller::-webkit-scrollbar-thumb {
 	background-color: #0abdc6 !important;
 	border-color: #091833 !important;
@@ -144,7 +144,7 @@
 	background-color: #000b1e !important;
 	border-color: #091833 !important;
 }
-
+/*
 html {
     scrollbar-color: var(--text) var(--background) !important;
 }
