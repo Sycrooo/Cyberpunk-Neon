@@ -144,11 +144,11 @@
 	background-color: #000b1e !important;
 	border-color: #091833 !important;
 }
-*/
+
 html {
     scrollbar-color: var(--text) var(--background) !important;
 }
-
+*/
 /* 1.5. Tooltip */
 .theme-dark .tooltipBlack-PPG47z, .theme-light .tooltipBlack-PPG47z {
     background-color: #000b1e;
