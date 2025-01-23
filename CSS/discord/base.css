@@ -88,7 +88,7 @@
 	--scrollbar-auto-thumb: #0abdc6 !important;
 	--scrollbar-auto-track: #000b1e !important;
 	--scrollbar-thin-thumb: #0abdc6 !important;
-	/*--scrollbar-thin-track: transparent !important;*/
+	--scrollbar-thin-track: transparent !important;
     --spoiler-revealed-background: #00ff00 !important;
     --spoiler-hidden-background: #00ff00 !important;
     --text-positive: #00ff00 !important;
