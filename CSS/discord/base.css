@@ -83,12 +83,12 @@
 	--interactive-muted: rgba(10, 189, 198, .6) !important;
 	--interactive-normal: #0abdc6 !important;
 	--logo-primary: #ea00d9 !important;
-	/*--scrollbar-auto-scrollbar-color-thumb: #0abdc6 !important;
+	--scrollbar-auto-scrollbar-color-thumb: #0abdc6 !important;
 	--scrollbar-auto-scrollbar-color-track: #000b1e !important;
 	--scrollbar-auto-thumb: #0abdc6 !important;
 	--scrollbar-auto-track: #000b1e !important;
-	--scrollbar-thin-thumb: #0abdc6 !important;*/
-	--scrollbar-thin-track: transparent !important;
+	--scrollbar-thin-thumb: #0abdc6 !important;
+	/*--scrollbar-thin-track: transparent !important;*/
     --spoiler-revealed-background: #00ff00 !important;
     --spoiler-hidden-background: #00ff00 !important;
     --text-positive: #00ff00 !important;
